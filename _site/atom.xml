@@ -11,5 +11,66 @@
       <uri></uri>
     </author>
     
+      <item>
+        <title>[Design] Check-List for future coolest library</title>
+        <description>&lt;p&gt;In this note I want to point something that can help you design the future library.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Abstracts&lt;br /&gt;
+  Think about abstracts. TODO: complete&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Encapsulation&lt;br /&gt;
+  Think about encapsulation. Opaque pointers, etc… TODO: complete&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name convention&lt;br /&gt;
+  Think about name convention. TODO: complete&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Error Handling&lt;br /&gt;
+  Think how to handle errors. TODO: complete&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Logging&lt;br /&gt;
+  Think about logging. There is many ways for logging: stdout, stderr, file, syslog. Each way have some limitations. TODO: complete&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tests&lt;br /&gt;
+  Think about tests. Choose your test framework or write your own:) TODO: complete&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;File architecture&lt;br /&gt;
+  Think about it. TODO: complete&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2020 00:00:00 +0300</pubDate>
+        <link>http://localhost:8000//library-design</link>
+        <link href="http://localhost:8000/library-design"/>
+        <guid isPermaLink="true">http://localhost:8000/library-design</guid>
+      </item>
+    
+      <item>
+        <title>[Code-Talks] Code more than code</title>
+        <description>&lt;p&gt;Thoughts about what is code?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2020 00:00:00 +0300</pubDate>
+        <link>http://localhost:8000//code-talks-code-more-than-code</link>
+        <link href="http://localhost:8000/code-talks-code-more-than-code"/>
+        <guid isPermaLink="true">http://localhost:8000/code-talks-code-more-than-code</guid>
+      </item>
+    
+      <item>
+        <title>[C] Some useful debugging macros</title>
+        <description>&lt;p&gt;In this note I want to share with some useful debugging macros. TODO: complete&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2020 00:00:00 +0300</pubDate>
+        <link>http://localhost:8000//c-debug-macro</link>
+        <link href="http://localhost:8000/c-debug-macro"/>
+        <guid isPermaLink="true">http://localhost:8000/c-debug-macro</guid>
+      </item>
+    
   </channel>
 </rss>
