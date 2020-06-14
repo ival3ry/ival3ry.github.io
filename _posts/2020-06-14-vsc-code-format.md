@@ -5,7 +5,9 @@ published: true
 
 This clang format fallback style that I use in VS Code:
 ```clang
-{ BasedOnStyle: Mozilla, PointerAlignment: Right }
+{ BasedOnStyle: Mozilla,
+  PointerAlignment: Right,
+  AlignConsecutiveMacros: true }
 ```
 
 ### How to use?
